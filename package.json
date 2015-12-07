@@ -1,0 +1,15 @@
+{
+  "name": "american-legal-homonyms",
+  "description": "list of American legal homonyms",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com)",
+  "keywords": [
+    "English",
+    "language",
+    "law",
+    "style",
+    "words"
+  ],
+  "license": "CC0-1.0",
+  "repository": "kemitchell/american-legal-homonyms"
+}
